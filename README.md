@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Aydin!
 
-I’m an Applied Math major and CS minor at UC Santa Cruz, passionate about using code to model and solve complex problems. Right now, I’m diving into AI and robotics through research with the SciAI Pathways program and my work with the Slugbotics club. I love building things that merge math, machine learning, and real-world impact — whether that’s autonomous navigation systems or simulations of multi-agent dynamics.
+I’m an Applied Math major with a CS minor at UC Santa Cruz, focused on using code and math to model and solve real world problems. Right now I’m working at the intersection of AI and robotics through the SciAI Pathways research program, the Slugbotics robotics club, and my Fall AI Studio project on agentic AI.
 
-Always up to talk projects, theory, or cool uses of AI in the wild!
+I like building systems that merge differential equations, machine learning, and robotics. Whether that’s computer vision for robot arms, hazard detection for autonomous driving, or simulations of multi-agent dynamics, Im always happy to talk projects, theory, or cool uses of AI in the wild.
+
 
 ---
 
@@ -43,10 +44,11 @@ Simulated interacting agents using coupled ODEs to model dynamic behavior. Appli
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Contact
 
-📧 Email: ayjkhan@ucsc.edu  
-🔗 LinkedIn: https://www.linkedin.com/in/aydin-khan-1265a6378/
+[![Email](https://img.shields.io/badge/Email-ayjkhan%40ucsc.edu-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayjkhan@ucsc.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aydin%20Khan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aydin-khan)
+
 
 ---
 

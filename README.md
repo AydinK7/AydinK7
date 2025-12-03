@@ -32,7 +32,7 @@ Computer vision pipeline for the Slugbotics ARM team using YOLOv11 and OpenCV.
 
 ### 🧠 agentic-ai-web-automation (Fall AI Studio)
 AI Studio Fall 2025 project—built an AI agent capable of navigating websites, retrieving information, and completing multi-step research workflows.  
-➡️ **Repo:** https://github.com/sarayumummidi/7-11-agentic-ai
+➡️ **Repo:** (currently private) https://github.com/sarayumummidi/7-11-agentic-ai
 
 🔒 Note: My Fall AI Studio project repository (7-11-agentic-ai) is currently private and will be made public later this quarter. Once it is public, it will be pinned to my profile.
 

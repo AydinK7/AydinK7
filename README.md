@@ -34,6 +34,8 @@ Computer vision pipeline for the Slugbotics ARM team using YOLOv11 and OpenCV.
 AI Studio Fall 2025 project—built an AI agent capable of navigating websites, retrieving information, and completing multi-step research workflows.  
 ➡️ **Repo:** https://github.com/sarayumummidi/7-11-agentic-ai
 
+🔒 Note: My Fall AI Studio project repository (7-11-agentic-ai) is currently private and will be made public later this quarter. Once it is public, it will be pinned to my profile.
+
 ### 🛣️ hazard-detection-snn
 Spiking Neural Network model for real-time road hazard detection on embedded hardware.  
 ➡️ **Repo:** https://github.com/AydinK7/hazard-detection-snn

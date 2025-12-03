@@ -24,16 +24,20 @@ I like building systems that merge differential equations, machine learning, and
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Repositories
 
-### 🤖 Computer Vision for Robotics (Slugbotics ARM Team)
-Built object detection models using OpenCV and YOLOv11 for autonomous robots. Integrated vision processing with robotic control for live tracking.
+### 🤖 slugbotics-vision-system
+Computer vision pipeline for the Slugbotics ARM team using YOLOv11 and OpenCV.  
+➡️ **Repo:** [https://github.com/YOUR_USERNAME/slugbotics-vision-system](https://github.com/AydinK7/AydinARM)
 
-### 🛣️ Hazard Detection for Cruz Control (Slugbotics)
-Used Spiking Neural Networks for real-time road anomaly detection. Combined AI safety research with embedded systems for on-device inference.
+### 🧠 agentic-ai-web-automation (Fall AI Studio)
+AI Studio Fall 2025 project—built an AI agent capable of navigating websites, retrieving information, and completing multi-step research workflows.  
+➡️ **Repo:** https://github.com/YOUR_USERNAME/agentic-ai-web-automation
 
-### 📊 Multi-Agent System Simulation (SciAI Research)
-Simulated interacting agents using coupled ODEs to model dynamic behavior. Applied mathematical modeling to explore emergent AI behaviors.
+### 🛣️ hazard-detection-snn
+Spiking Neural Network model for real-time road hazard detection on embedded hardware.  
+➡️ **Repo:** https://github.com/YOUR_USERNAME/hazard-detection-snn
+
 
 ---
 

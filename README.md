@@ -28,15 +28,15 @@ I like building systems that merge differential equations, machine learning, and
 
 ### 🤖 slugbotics-vision-system
 Computer vision pipeline for the Slugbotics ARM team using YOLOv11 and OpenCV.  
-➡️ **Repo:** [https://github.com/YOUR_USERNAME/slugbotics-vision-system](https://github.com/AydinK7/AydinARM)
+➡️ **Repo:** https://github.com/AydinK7/AydinARM
 
 ### 🧠 agentic-ai-web-automation (Fall AI Studio)
 AI Studio Fall 2025 project—built an AI agent capable of navigating websites, retrieving information, and completing multi-step research workflows.  
-➡️ **Repo:** https://github.com/YOUR_USERNAME/agentic-ai-web-automation
+➡️ **Repo:** https://github.com/sarayumummidi/7-11-agentic-ai
 
 ### 🛣️ hazard-detection-snn
 Spiking Neural Network model for real-time road hazard detection on embedded hardware.  
-➡️ **Repo:** https://github.com/YOUR_USERNAME/hazard-detection-snn
+➡️ **Repo:** https://github.com/AydinK7/hazard-detection-snn
 
 
 ---

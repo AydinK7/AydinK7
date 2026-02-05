@@ -97,4 +97,4 @@ Stability analysis and mathematical modeling
 
 ## 📊 GitHub Stats
 
-![Aydin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayjkhan&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AydinK7&show_icons=true&theme=default)

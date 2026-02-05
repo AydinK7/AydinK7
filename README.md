@@ -1,52 +1,90 @@
 # 👋 Hi, I’m Aydin!
 
-I’m an Applied Math major with a CS minor at UC Santa Cruz, focused on using code and math to model and solve real world problems. Right now I’m working at the intersection of AI and robotics through the SciAI Pathways research program, the Slugbotics robotics club, and my Fall AI Studio project on agentic AI.
+I’m an Applied Mathematics B.S. student with a Computer Science minor at **UC Santa Cruz**, focused on building **applied machine learning and LLM-based systems** with strong mathematical foundations.
 
-I like building systems that merge differential equations, machine learning, and robotics. Whether that’s computer vision for robot arms, hazard detection for autonomous driving, or simulations of multi-agent dynamics, Im always happy to talk projects, theory, or cool uses of AI in the wild.
+My work centers on:
+- **Retrieval-Augmented Generation (RAG) and agentic LLM systems**
+- **Computer vision and multimodal ML pipelines**
+- **Scientific computing, numerical methods, and mathematical modeling**
 
-
----
-
-## 🎯 Featured Project: Real-Time Hazard Detection with Spiking Neural Networks  
-🚗 **What I Built:** Designed and trained a Spiking Neural Network (SNN) model to detect road hazards in real-time for autonomous vehicles.  
-🧠 **Tools & Techniques:** Python, custom SNN models, embedded systems  
-📈 **Result:** Enabled faster, biologically-inspired hazard recognition to enhance safety for autonomous driving systems  
-👉 *Coming soon: Link to full repo + project README*
+I’m currently involved in **Break Through Tech AI Studio** and **undergraduate research in deep learning**, where I work on applied ML systems with an emphasis on evaluation, robustness, and real-world constraints.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Featured Project: Agentic AI for Technical Document Intelligence (AI Studio 7-11)
 
-**Languages:** Python, C++, Go, Java, Matlab  
-**ML/AI Tools:** PyTorch, TensorFlow, scikit-learn, Pandas, OpenCV  
-**Concepts:** Differential Equations, Linear Algebra, ODE Modeling  
-**Dev Tools:** Git, GitHub, Jupyter Notebooks, VSCode, Google Colab  
+**Break Through Tech – AI Studio | ML Engineer Fellow**
 
----
+Built an **agentic Retrieval-Augmented Generation (RAG) system** for semantic search and question answering over large, unstructured technical documentation.
 
-## 🚀 Featured Repositories
+**Key Contributions**
+- Designed and implemented a RAG pipeline using **LangChain, FAISS, and transformer embeddings**
+- Built a full ingestion pipeline with **PDF chunking, metadata extraction, and OCR fallback**
+- Developed a **multi-agent LLM architecture** (planner, retriever, synthesizer)
+- Created standardized evaluation pipelines measuring **Precision@k, Recall@k, and latency**
 
-### 🤖 slugbotics-vision-system
-Computer vision pipeline for the Slugbotics ARM team using YOLOv11 and OpenCV.  
-➡️ **Repo:** https://github.com/AydinK7/AydinARM
-
-### 🧠 agentic-ai-web-automation (Fall AI Studio)
-AI Studio Fall 2025 project—built an AI agent capable of navigating websites, retrieving information, and completing multi-step research workflows.  
-➡️ **Repo:** (currently private) https://github.com/sarayumummidi/7-11-agentic-ai
-
-🔒 Note: My Fall AI Studio project repository (7-11-agentic-ai) is currently private and will be made public later this quarter. Once it is public, it will be pinned to my profile.
-
-### 🛣️ hazard-detection-snn
-Spiking Neural Network model for real-time road hazard detection on embedded hardware.  
-➡️ **Repo:** https://github.com/AydinK7/hazard-detection-snn
-
+🔗 **Repository:** https://github.com/sarayumummidi/7-11-agentic-ai
 
 ---
 
-## 🏆 Awards & Recognition
+## 🔬 Research: Deep Learning for Wound Healing
 
-- 🎖 Dean’s Honors, UC Santa Cruz  
-- 🧪 Selected Researcher, SciAI Pathways Program (2024–2026)
+**Undergraduate Researcher | UC Santa Cruz**
+
+Worked on **DeepMapper**, an attention-based autoencoder that learns linear representations of nonlinear wound healing dynamics from image sequences.
+
+- Preprocessed and normalized wound image time series, including noise handling and data augmentation
+- Applied temporal attention mechanisms to reduce noise and improve stability
+- Learned low-dimensional latent representations aligned with biological healing stages
+- Modeled temporal progression using learned linear dynamics
+- Evaluated models using reconstruction error, future-state prediction, and stage probability trajectories
+- Analyzed performance across mouse and porcine datasets, including cross-species transfer learning
+
+---
+
+## Computer Vision & ML Systems (Slugbotics)
+
+**Slugbotics Cruz Arm Team | UC Santa Cruz**
+
+Worked on **computer vision and vision-language model pipelines** for safety-critical ML systems.
+
+- Implemented real-time object detection and tracking using **OpenCV and YOLOv11**
+- Deployed large vision and multimodal models on **Kubernetes-based GPU clusters (Nautilus)**
+- Conducted performance testing focused on **accuracy, latency, and robustness**
+- Integrated ML inference pipelines with downstream decision-making systems
+
+🔗 **Repository:** https://github.com/AydinK7/AydinARM
+
+---
+
+## 🛠 Technical Skills
+
+**Programming Languages**  
+Python, C, MATLAB, Fortran
+
+**LLM Systems & NLP**  
+Retrieval-Augmented Generation (RAG), LangChain, FAISS  
+Transformer embeddings, semantic search  
+LLM evaluation (Precision@k, Recall@k, latency)
+
+**Machine Learning**  
+PyTorch, TensorFlow, scikit-learn, Pandas, SciPy  
+Deep learning, representation learning
+
+**Computer Vision & Multimodal ML**  
+OpenCV, YOLOv11, CNNs  
+Vision-language models
+
+**Scientific Computing**  
+Numerical simulation and modeling  
+Linear algebra, ODEs & PDEs  
+Stability analysis and mathematical modeling
+
+---
+
+## Honors & Recognition
+
+- 🎖 **Dean’s Honors**, UC Santa Cruz (GPA 3.92)
 
 ---
 
@@ -55,16 +93,8 @@ Spiking Neural Network model for real-time road hazard detection on embedded har
 [![Email](https://img.shields.io/badge/Email-ayjkhan%40ucsc.edu-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayjkhan@ucsc.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aydin%20Khan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aydin-khan)
 
-
 ---
 
 ## 📊 GitHub Stats
 
 ![Aydin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayjkhan&show_icons=true&theme=default)
-
----
-
-## ✨ Fun Fact
-
-When I’m not coding, you’ll probably find me playing chess, exploring robotics side projects, or reading about AI alignment. (And yes, I will 100% talk your ear off about differential equations.)
-
